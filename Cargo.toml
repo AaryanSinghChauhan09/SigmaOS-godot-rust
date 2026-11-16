@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-godot-rust"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS godot-rust component"
+
+[lib]
+name = "godot_rust"
+path = "src/lib.rs"
