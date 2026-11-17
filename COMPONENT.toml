@@ -3,7 +3,7 @@ name = "SigmaOS-godot-rust"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "godot-rust component"
+description = "Godot Rust runtime compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
